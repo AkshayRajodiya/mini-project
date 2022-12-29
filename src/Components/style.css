@@ -1,0 +1,42 @@
+.thali-item-container {
+  display: flex;
+  background: whitesmoke;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.thali-item-image {
+  height: 200px;
+  width: 200px;
+}
+
+.checkout-item-container {
+  display: flex;
+  background: whitesmoke;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.checkout-item-image {
+  height: 100px;
+  width: 100px;
+}
+
+.menu-item-container {
+  display: flex;
+  background: whitesmoke;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.menu-item-image {
+  height: 200px;
+  width: 200px;
+}
+
+.count-form-input {
+  max-width: 50px
+}
